@@ -1,7 +1,7 @@
 # usage
 if you need to exclude a remote, execute this: ```_G.excludetable = {"RandomSpammyRemote"}```  
 
-this is a `very bad` remotespy I made a while back that I recently gave colors only scans 3 tables deep
+this is a very bad remotespy i do not recommend ts
 
 # pros:
 - outputs debugid which makes it so if there's hundreds of identical remotes in name you can tell them apart  
