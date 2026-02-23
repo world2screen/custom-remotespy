@@ -4,10 +4,11 @@ if you need to exclude a remote, execute this: ```_G.excludetable = {"RandomSpam
 this is a `very bad` remotespy I made a while back that I recently gave colors only scans 3 tables deep
 
 # pros:
-outputs debugid which makes it so if there's hundreds of identical remotes in name you can tell them apart  
+- outputs debugid which makes it so if there's hundreds of identical remotes in name you can tell them apart  
+- lightweight (kinda)  
 
 # cons:
-starts a new thread to call getdebugid  
+- only goes 3 tables deep </3  
 
 # how to use debugids
 this didnt deserve its own repo so im putting this here yay!!!
